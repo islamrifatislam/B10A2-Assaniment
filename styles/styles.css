@@ -177,4 +177,34 @@ header {
   top: 125px;
   right: 50px;
 }
+/* Change habit style */
+.first-seciton {
+  background-color: black;
+  padding: 100px 0;
+}
+.habit-content {
+  color: white;
+  width: 250px;
+  text-align: center;
+}
+.habit-img-container img {
+  border-radius: 100%;
+}
+.habit-content h3 {
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 600;
+  margin: 12px 0;
+}
+.habit-content p {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+}
+.habit-content-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+  align-items: center;
+}
+
 
