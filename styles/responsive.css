@@ -75,6 +75,9 @@ font-size: 32px;
 .div-2 {
     width: 100%;
 }
-
+.trainer-dis-container {
+ grid-template-columns: repeat(1, 1fr);
+  }
+                                
                                 
                                     
