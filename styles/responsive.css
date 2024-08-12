@@ -41,5 +41,40 @@ right: 0px;
  .heading-content h1 {
 font-size: 32px;
 }
+
+.ad-banner-content-1,
+.ad-banner-content-2 {
+    width: 100%;
+}
+
+.ad-banner {
+    flex-direction: column;
+    padding: 30px;
+    gap: 30px;
+
+}
+.bmi-calculator-section {
+ padding: 34px 16px;
+  }
+.add-banner-button {
+    width: 100%;
+}
+
+.second-banner {
+    padding: 0 16px;
+}
+
+
+
+.bmi-content {
+    flex-direction: column;
+    gap: 60px;
+}
+
+.div-1,
+.div-2 {
+    width: 100%;
+}
+
                                 
                                     
